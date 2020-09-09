@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calculator
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Calculator
+A simple calculator in JS and VueJS
+>>>>>>> f512742e1d737e60176e011a9077392a2041c10f
